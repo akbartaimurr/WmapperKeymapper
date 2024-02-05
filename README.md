@@ -11,7 +11,8 @@
   <a href="https://www.youtube.com/embed/nbZdMVVyTG4?si=3MrZyNSGP9TGjhN4">Demo</a>•
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![image](https://github.com/FlippantDev/Wmapper/assets/134905706/e0135434-4d63-47ed-b7af-0b20bb899818)
+
 
 ## Key Features
 
