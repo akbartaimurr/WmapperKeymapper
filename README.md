@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">Documentation</a> •
-  <a href="#download">Download</a>•
+  <a href="https://github.com/FlippantDev/Wmapper/releases/">Download</a>•
   <a href="https://www.youtube.com/embed/nbZdMVVyTG4?si=3MrZyNSGP9TGjhN4">Demo</a>•
 </p>
 
