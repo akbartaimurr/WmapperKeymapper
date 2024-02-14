@@ -58,7 +58,7 @@
 
 ## Download 
 
-You can download Wmapper ⚡ from the Download Center which is the [Github Releases Area](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0)
+You can download Wmapper ⚡ from the Download Center which is the [Github Releases Area](https://github.com/FlippantDev/Wmapper/releases/)
 
 ## Demo
 
