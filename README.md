@@ -51,6 +51,16 @@
  - You can either make more or type q and finalize it
  - Once finalized, test it out by pressing on the key you chose, It should now swipe from your starting point to another point which is the added radius point
 
+-> importconfig <filename>
+ - Import config is a new feature introduced in 1.0.1, it let's users directly import their keymap config from the directory without having to create keymaps all over again
+ - To import a keymap configuration you can use the 'importconfig' command
+ - Type 'importconfig' followed by a json file name with content inside
+ - The JSON config should be in the same directory as what you are using:
+   ![image](https://github.com/FlippantDev/Wmapper/assets/134905706/c57af3f2-74ef-48a2-bd35-678f523438d3)
+
+ - So now I will type 'importconfig keymapconfigdemo.json'
+ - The JSON file in the photo is already premade for use, you can edit it if you want
+ - Once you type it in and enter, it will register and the program will start listening
 
 
 > **Note**
