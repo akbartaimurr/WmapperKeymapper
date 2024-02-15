@@ -23,6 +23,8 @@
 * Normal Keymaps  
 * Set delay before keymap takes action
 * [WSA] (https://github.com/MustardChef/WSABuilds?tab=readme-ov-file) Support
+* Import Keymap configuration file [NEW]
+* Users can create their own keymap config files[NEW]
 
 ## How To Use
 
