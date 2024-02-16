@@ -9,6 +9,7 @@
   <a href="#how-to-use">Documentation</a> •
   <a href="https://github.com/FlippantDev/Wmapper/releases/">Download</a>•
   <a href="https://www.youtube.com/embed/nbZdMVVyTG4?si=3MrZyNSGP9TGjhN4">Demo</a>•
+  <a href="https://discord.gg/wgTeTeDS">Wmapper Discord</a>•
 </p>
 
 ![image](https://github.com/FlippantDev/Wmapper/assets/134905706/f3729a65-18b3-4678-bd7b-d031085f51c5)
@@ -72,6 +73,7 @@
 ## Download 
 
 You can download Wmapper ⚡ from the Download Center which is the [Github Releases Area](https://github.com/FlippantDev/Wmapper/releases/)
+Join the discord for support : https://discord.gg/wgTeTeDS
 
 ## Demo
 
