@@ -29,7 +29,7 @@
 
 ## How To Use
 
--> Default Mode
+### -------> Default Mode <-------------------------
  - Type 'Create' on the Enter a command prompt
  - Enter key you want to assign for the click, for example If I want key W to simulate a click somewhere, I'll choose W
  - If you type Q in that prompt it won't quit the app but instead finalize the config you made
@@ -38,7 +38,7 @@
  - You can either make more or type q and finalize it
  - Once finalized, test it out by pressing on the key you chose, In this example it was W
 
--> Swiping Mode
+### -------> Swiping Mode <-------------------------
  - Type 'Create' on the Enter a command prompt
  - Enter key you want to assign for the click, this will be the key which when pressed, simulates a swipe from start location to end
  - If you type Q in that prompt it won't quit the app but instead finalize the config you made
@@ -54,11 +54,12 @@
  - You can either make more or type q and finalize it
  - Once finalized, test it out by pressing on the key you chose, It should now swipe from your starting point to another point which is the added radius point
 
--> importconfig <filename>
+### -------> ImportConfig Command <-------------------------
  - Import config is a new feature introduced in 1.0.1, it let's users directly import their keymap config from the directory without having to create keymaps all over again
  - To import a keymap configuration you can use the 'importconfig' command
  - Type 'importconfig' followed by a json file name with content inside
  - The JSON config should be in the same directory as what you are using:
+ - 
    ![image](https://github.com/FlippantDev/Wmapper/assets/134905706/c57af3f2-74ef-48a2-bd35-678f523438d3)
 
  - So now I will type 'importconfig keymapconfigdemo.json'
@@ -68,6 +69,10 @@
 
 > **Note**
 > This may not apply to future versions so I will try to keep this documentation updated for next versions
+
+
+
+
 
 
 ## Download 
