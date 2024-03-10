@@ -28,7 +28,7 @@
 * Import Keymap configuration file [NEW]
 * Users can create their own keymap config files[NEW]
 
-## How To Use
+## How To Use [outdated] [before 1.0.3]
 
 ### -------> Default Mode <-------------------------
  - Type 'Create' on the Enter a command prompt
