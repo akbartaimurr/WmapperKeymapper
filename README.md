@@ -12,7 +12,8 @@
   <a href="https://discord.gg/wgTeTeDS">Wmapper Discord</a>•
 </p>
 
-![image](https://github.com/FlippantDev/Wmapper/assets/134905706/f3729a65-18b3-4678-bd7b-d031085f51c5)
+![image](https://github.com/akbartaimurr/WmapperKeymapper/assets/134905706/530516b6-d6ba-436f-8ac7-b072fc1f80ec)
+
 
 
 
