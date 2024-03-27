@@ -1,5 +1,8 @@
-![image](https://github.com/FlippantDev/Wmapper/assets/134905706/f6de14a3-7544-4861-94eb-a8adbd60c016)
 
+# Wmapper is no longer being maintained...
+The last version of wmapper is an early version (1.0.3) you can still download it from the releases area but expect no more updates as Wmapper is no longer being maintained. Previous versions are also still available and can be downloaded from the releases section. 
+
+____________________________________________________________________________
 
 <h4 align="center">A tool which let's you keymap throughout windows | Made for <a href="https://github.com/MustardChef/WSABuilds?tab=readme-ov-file" target="_blank">WSA 🚀😎</a>.</h4>
 
