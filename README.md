@@ -12,7 +12,7 @@ ____________________________________________________________________________
   <a href="#how-to-use">Documentation</a> •
   <a href="https://github.com/FlippantDev/Wmapper/releases/">Download</a>•
   <a href="https://www.youtube.com/embed/nbZdMVVyTG4?si=3MrZyNSGP9TGjhN4">Demo</a>•
-  <a href="https://discord.gg/wgTeTeDS">Wmapper Discord</a>•
+  <a href="https://discord.gg/wgTeTeDS">Wmapper Discord (removed) </a>•
 </p>
 
 ![image](https://github.com/akbartaimurr/WmapperKeymapper/assets/134905706/530516b6-d6ba-436f-8ac7-b072fc1f80ec)
