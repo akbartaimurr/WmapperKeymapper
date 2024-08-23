@@ -3,6 +3,7 @@
 The last version of wmapper is an early version (1.0.3)
 - Wmapper is going to be receiving a new update starting the 5th august that will incude requested features like mouse lock and blue stacks like UI for the keymapper
   Thank your for supporting Wmapper 🙂
+     - written 23/8/24
 
 ____________________________________________________________________________
 
