@@ -1,6 +1,8 @@
 
-# Wmapper is no longer being maintained...
-The last version of wmapper is an early version (1.0.3) you can still download it from the releases area but expect no more updates as Wmapper is no longer being maintained. Previous versions are also still available and can be downloaded from the releases section. 
+# Wmapper is getting a new update...
+The last version of wmapper is an early version (1.0.3)
+- Wmapper is going to be receiving a new update starting the 5th august that will incude requested features like mouse lock and blue stacks like UI for the keymapper
+  Thank your for supporting Wmapper 🙂
 
 ____________________________________________________________________________
 
