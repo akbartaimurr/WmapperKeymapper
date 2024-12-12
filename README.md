@@ -1,26 +1,35 @@
-
-# Wmapper is getting a new update...
-The last version of wmapper is an early version (1.0.3)
-- Wmapper is going to be receiving a new update starting the 5th august that will incude requested features like mouse lock and blue stacks like UI for the keymapper
-  Thank your for supporting Wmapper 🙂
-     - written 23/8/24
-
-____________________________________________________________________________
-
-<h4 align="center">A tool which let's you keymap throughout windows | Made for <a href="https://github.com/MustardChef/WSABuilds?tab=readme-ov-file" target="_blank">WSA 🚀😎</a>.</h4>
-
-
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">Documentation</a> •
-  <a href="https://github.com/FlippantDev/Wmapper/releases/">Download</a>•
-  <a href="https://www.youtube.com/embed/nbZdMVVyTG4?si=3MrZyNSGP9TGjhN4">Demo</a>•
-  <a href="https://discord.gg/wgTeTeDS">Wmapper Discord (removed) </a>•
+  <img src="https://github.com/user-attachments/assets/1de30dd8-103d-4420-8f0e-a1430b3523c9" alt="Image description" width="300">
 </p>
 
-![image](https://github.com/akbartaimurr/WmapperKeymapper/assets/134905706/530516b6-d6ba-436f-8ac7-b072fc1f80ec)
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/✨%20Website-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Website">
+  </a>
+  <a href="https://yourwebsite.com/about" target="_blank">
+    <img src="https://img.shields.io/badge/❓%20About-black?style=for-the-badge&logo=firefox&logoColor=white" alt="About">
+  </a>
+  <a href="https://yourwebsite.com/downloads" target="_blank">
+    <img src="https://img.shields.io/badge/🔽%20Downloads-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Downloads">
+  </a>
+  <a href="https://yourwebsite.com/build-installation" target="_blank">
+    <img src="https://img.shields.io/badge/👩‍💻%20Build%20Installation-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Build Installation">
+  </a>
+  <a href="https://yourwebsite.com/documentation" target="_blank">
+    <img src="https://img.shields.io/badge/📜%20Documentation-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Documentation">
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://yourwebsite.com/support" target="_blank">
+    <img src="https://img.shields.io/badge/❤️%20Support%20the%20Project-white?style=for-the-badge&logo=none" alt="Support the Project">
+  </a>
+</p>
 
+<!-- Add the new image with appropriate spacing -->
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/5892b3d2-251a-4146-8409-7c8e948ad392" alt="Second Image" width="1000">
+</p>
 
 
 ## Key Features
