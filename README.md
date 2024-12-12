@@ -33,21 +33,21 @@
 
 ## About Wmapper 📌
 
-Welcome to Wmapper 🫶
-This project aims to ease the process of keymapping throughout windows with a simple and intuitive GUI. 
+Welcome to **Wmapper** 🫶!  
+This project aims to ease the process of keymapping throughout Windows with a simple and intuitive GUI.
 
-With Wmapper versions above 1.0.3,  you can simply select a window and create a keymap and drag it anywhere across the window to simulate clicks,swiping and cursor lock.
+With Wmapper versions above 1.0.3, you can simply select a window and create a keymap, then drag it anywhere across the window to simulate clicks, swiping, and cursor lock.
 
-Wmappers Keymapping abilities is based of popular emulation keymapping technologies like Bluestacks, Nox and LDPlayer as it's main purpose is to help keymapping in apps like
+Wmapper's keymapping abilities are based on popular emulation keymapping technologies like Bluestacks, Nox, and LDPlayer. Its main purpose is to help keymapping in apps like:
 - Google Play Games
 - Microsoft WSA
 
-This project offers:
-- 🚀 **Easy Keymapping**: Easy and intuitive keymapping GUI as well as functionality as seen in apps like Bluestacks.
-- 🤝 **Community Help**: Join a growing community of contributors and users to download and share keymap configuration
-- 📚 **Accessibility**: Comprehensive documentation and support for Wmapper versions above 1.0.2 
+### What Wmapper Offers:
+- 🚀 **Easy Keymapping**: An intuitive GUI and functionality inspired by apps like Bluestacks.
+- 🤝 **Community Help**: Join a growing community of contributors to download and share keymap configurations.
+- 📚 **Accessibility**: Comprehensive documentation and support for Wmapper versions above 1.0.2.
 
-If you're interested in the project and want to learn more on how it works, you can check it out on our blogpost 📌
+If you're interested in the project and want to learn more, check out our blog post 📌:
 
 
   <a href="https://yourwebsite.com/about" target="_blank">
@@ -55,94 +55,52 @@ If you're interested in the project and want to learn more on how it works, you 
   </a>
 
 
+## Intuitive GUI Examples:
 
-## Key Features
+> **Note**: Below is an example of Wmapper's intuitive keymapping interface on version 1.0.4, which is still in development. Current release options are 1.0.0 - 1.0.3.
 
-* Keymap all through out windows
-* Swiping Keymaps
-  - Allows you to simulate a swipe using [coordinates + radius = swipe]
-* Normal Keymaps  
-* Set delay before keymap takes action
-* [WSA] (https://github.com/MustardChef/WSABuilds?tab=readme-ov-file) Support
-* Import Keymap configuration file [NEW]
-* Users can create their own keymap config files[NEW]
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/990dc14e-110e-4290-971d-32d4e9026613" alt="Wmapper GUI Example" width="1000">
+</p>
 
-## How To Use [outdated] [before 1.0.3]
+## Features of Wmapper 🚀
 
-### -------> Default Mode <-------------------------
- - Type 'Create' on the Enter a command prompt
- - Enter key you want to assign for the click, for example If I want key W to simulate a click somewhere, I'll choose W
- - If you type Q in that prompt it won't quit the app but instead finalize the config you made
- - Once done choosing a key, move your cursor to a place on your screen and click S on keyboard, This place is where the click will be simulated
- - Once cords are saved, It will prompt to Enter another key for next click
- - You can either make more or type q and finalize it
- - Once finalized, test it out by pressing on the key you chose, In this example it was W
+Wmapper offers a range of features designed to make keymapping effortless and effective:
 
-### -------> Swiping Mode <-------------------------
- - Type 'Create' on the Enter a command prompt
- - Enter key you want to assign for the click, this will be the key which when pressed, simulates a swipe from start location to end
- - If you type Q in that prompt it won't quit the app but instead finalize the config you made
- - Once done choosing a key, move your cursor to a place on your screen and click S on keyboard, This will be the start location for swipe
- - Once cords are saved, It will prompt you to enter what type of swipe you want
- - Choose one [ex. up,down,left,right]
- - It will now prompt you to enter a radius for the swipe
- - The radius is basically the distance from the starting point to another point, For example, If my cords are [x,y] It will add a radius of in this example I'll use 200, It will add 200 to the cords to find end point.
- - A radius of 200 is recommended by the way
- - Now you are going to enter the speed, This will be the duration it takes for your cursor to swipe from Point A to Point B
- - A speed of 0 seconds is recommended for no delay
- - Once done, It will prompt to enter another key for another swipe
- - You can either make more or type q and finalize it
- - Once finalized, test it out by pressing on the key you chose, It should now swipe from your starting point to another point which is the added radius point
+- 🎮 **Drag and Drop Keymapping**: Easily drag and drop keymap actions anywhere on the window.
+- 🔒 **Cursor Lock**: Lock the cursor inside specific regions for enhanced precision whilst gaming in Android games.
+- 🔄 **Emulation-based Keymapping**: Inspired by popular emulation technologies like Bluestacks and LDPlayer.
+- 🌐 **Multi-Window Support**: Fully supports keymapping for multiple windows to make keymapping easier.
+- 🧑‍🤝‍🧑 **Community-driven**: Engage with a growing community to share keymaps and configurations.
 
-### -------> ImportConfig Command <-------------------------
- - Import config is a new feature introduced in 1.0.1, it let's users directly import their keymap config from the directory without having to create keymaps all over again
- - To import a keymap configuration you can use the 'importconfig' command
- - Type 'importconfig' followed by a json file name with content inside
- - The JSON config should be in the same directory as what you are using:
- - 
-   ![image](https://github.com/FlippantDev/Wmapper/assets/134905706/c57af3f2-74ef-48a2-bd35-678f523438d3)
-
- - So now I will type 'importconfig keymapconfigdemo.json'
- - The JSON file in the photo is already premade for use, you can edit it if you want
- - Once you type it in and enter, it will register and the program will start listening
-
-
-> **Note**
-> This may not apply to future versions so I will try to keep this documentation updated for next versions
+Experience these modern features and enhance your keymapping productivity today!
 
 
 
+## Don't Just Take It From Us 😎
+
+| Avatar | Name        | Review                                                                 |
+|--------|-------------|------------------------------------------------------------------------|
+| ![avatar](https://images.weserv.nl/?url=https://github.com/user-attachments/assets/c5b472a7-e1d3-42c6-8f9c-27090e55ec9c&h=30&w=30&fit=cover&mask=circle) | **Anonymous** | Very Very Thanks Bro. I spent almost 6 hours to do this by watching other tutorials and by googling. But nothing worked. Finally, this one worked for my WSA. |
+| ![avatar](https://images.weserv.nl/?url=https://github.com/user-attachments/assets/51312601-d3da-4bb1-b765-5532e456a72d&h=30&w=30&fit=cover&mask=circle) | **censurer** | Ahhhh BIG W work!! TYSM😘                                                 |
+| ![avatar](https://images.weserv.nl/?url=https://github.com/user-attachments/assets/ac278102-95d4-44b9-914b-2585aea63e93&h=30&w=30&fit=cover&mask=circle) | **in-the-stars** | Helpful! Thanks, sad cause Microsoft ended support for WSA tho.          |
+| ![avatar](https://images.weserv.nl/?url=https://github.com/user-attachments/assets/84cc2460-0c24-41e0-8b72-5bc6afe4a615&h=30&w=30&fit=cover&mask=circle) | **CronosOnYT** | Sad part is Microsoft closed support for WSA :( Nice work tho.            |
 
 
+## How to Build Wmapper 🔨
 
-## Download 
+Building **Wmapper** from source is a straightforward process! Follow the steps below to set up Wmapper on your local machine.
 
-You can download Wmapper ⚡ from the Download Center which is the [Github Releases Area](https://github.com/FlippantDev/Wmapper/releases/)
-Join the discord for support : https://discord.gg/wgTeTeDS
+### Prerequisites:
+Before starting, make sure you have the following installed:
+- Python 3.7 or higher
+- pip (Python's package installer)
+- Git (for cloning the repository)
 
-## Demo
+### Steps to Build Wmapper:
 
-https://www.youtube.com/embed/nbZdMVVyTG4?si=3MrZyNSGP9TGjhN4
-
-
----
-
-## Related
-
-[wmapper-web](https://wmapperonline.web.app) - Official Website for Wmapper
-[Windows Subsystem For Android Builds](https://github.com/MustardChef/WSABuilds?tab=readme-ov-file) - Wmapper was programmed esentially for this and to perform amazing on this 😎
-
-
-## You may also like...
-
-- [WSA toolbox]([https://github.com/amitmerchant1990/pomolectron](https://apps.microsoft.com/detail/9PPSP2MKVTGT?hl=da-DK&gl=CN)) - A toolbox for WSA
-
-## License
-
-Apache 2.0
-
----
-
-> [flippantagain@gmail.com]
-> Youtube [@urdadflip](https://www.youtube.com/channel/UCE-ixwTDDLOqRPz3InkWPYw) &nbsp;&middot;&nbsp;
+1. **Clone the Repository**  
+   First, clone the Wmapper repository to your local machine. Open a terminal (or command prompt) and run:
+   ```bash
+   git clone https://github.com/your-username/Wmapper.git
 
