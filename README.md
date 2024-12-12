@@ -31,6 +31,30 @@
   <img src="https://github.com/user-attachments/assets/5892b3d2-251a-4146-8409-7c8e948ad392" alt="Second Image" width="1000">
 </p>
 
+## About Wmapper 📌
+
+Welcome to Wmapper 🫶
+This project aims to ease the process of keymapping throughout windows with a simple and intuitive GUI. 
+
+With Wmapper versions above 1.0.3,  you can simply select a window and create a keymap and drag it anywhere across the window to simulate clicks,swiping and cursor lock.
+
+Wmappers Keymapping abilities is based of popular emulation keymapping technologies like Bluestacks, Nox and LDPlayer as it's main purpose is to help keymapping in apps like
+- Google Play Games
+- Microsoft WSA
+
+This project offers:
+- 🚀 **Easy Keymapping**: Easy and intuitive keymapping GUI as well as functionality as seen in apps like Bluestacks.
+- 🤝 **Community Help**: Join a growing community of contributors and users to download and share keymap configuration
+- 📚 **Accessibility**: Comprehensive documentation and support for Wmapper versions above 1.0.2 
+
+If you're interested in the project and want to learn more on how it works, you can check it out on our blogpost 📌
+
+
+  <a href="https://yourwebsite.com/about" target="_blank">
+    <img src="https://img.shields.io/badge/✨%20Learn%20More%20➞-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Learn More">
+  </a>
+
+
 
 ## Key Features
 
