@@ -1,4 +1,5 @@
-yeah i have not released 1.0.3 yet... some1 else do it smh smh but yeah u can use 1.0.3 which is used in the yt video
+yeah i have not released 1.0.4 yet... some1 else do it smh smh but yeah u can use 1.0.3 which is used in the yt video
+yeah the ss's are wrong they say 1.0.3 but there supposed to be 1.0.4 but atleast u got an insight into what i was building before i left this until i come back idk
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/614ac46c-4635-47e0-94da-a4e9f0cee203" alt="Image description" width="250">
