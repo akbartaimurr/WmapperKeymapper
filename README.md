@@ -1,3 +1,5 @@
+yeah i have not released 1.0.3 yet... some1 else do it smh smh but yeah u can use 1.0.3 which is used in the yt video
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/614ac46c-4635-47e0-94da-a4e9f0cee203" alt="Image description" width="250">
 </p>
