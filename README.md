@@ -3,6 +3,9 @@ yeah the ss's are wrong they say 1.0.3 but there supposed to be 1.0.4 but atleas
 
 jan 2026 -> why are ppl still using this leave an issue on the issue tab if u want me to actually update ts
 
+oh btw these screenshtos are from a unreleased version anyways the app rn is just cmd based
+
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/614ac46c-4635-47e0-94da-a4e9f0cee203" alt="Image description" width="250">
 </p>
