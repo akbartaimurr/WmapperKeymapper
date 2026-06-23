@@ -2,29 +2,30 @@
   <img src="https://github.com/user-attachments/assets/8b33d672-016d-417a-a6be-9f4ab2fb2e7d" alt="Image description" width="500">
 </p>
 
-<p align="center">
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/✨%20Website-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Website">
-  </a>
-  <a href="https://yourwebsite.com/about" target="_blank">
-    <img src="https://img.shields.io/badge/❓%20About-black?style=for-the-badge&logo=firefox&logoColor=white" alt="About">
-  </a>
-  <a href="https://yourwebsite.com/downloads" target="_blank">
-    <img src="https://img.shields.io/badge/🔽%20Downloads-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Downloads">
-  </a>
-  <a href="https://yourwebsite.com/build-installation" target="_blank">
-    <img src="https://img.shields.io/badge/👩‍💻%20Build%20Installation-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Build Installation">
-  </a>
-  <a href="https://yourwebsite.com/documentation" target="_blank">
-    <img src="https://img.shields.io/badge/📜%20Documentation-black?style=for-the-badge&logo=firefox&logoColor=white" alt="Documentation">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://yourwebsite.com/support" target="_blank">
-    <img src="https://img.shields.io/badge/❤️%20Support%20the%20Project-white?style=for-the-badge&logo=none" alt="Support the Project">
-  </a>
-</p>
+<table align="center" cellspacing="0">
+<tr>
+  <td>
+    <a href="YOUR_RELEASES_LINK" target="_blank">
+      <img src="https://img.shields.io/badge/Releases-black?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+    </a>
+  </td>
+  <td>
+    <a href="YOUR_DOCS_LINK" target="_blank">
+      <img src="https://img.shields.io/badge/Documentation-black?style=for-the-badge&logo=read-the-docs&logoColor=FFA500" alt="Docs">
+    </a>
+  </td>
+  <td>
+    <a href="YOUR_CHANGELOG_LINK" target="_blank">
+      <img src="https://img.shields.io/badge/Changelog-black?style=for-the-badge&logo=firefox&logoColor=FF6F61" alt="Changelog">
+    </a>
+  </td>
+  <td>
+    <a href="YOUR_DISCORD_OR_ISSUES" target="_blank">
+      <img src="https://img.shields.io/badge/Support-black?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Support">
+    </a>
+  </td>
+</tr>
+</table>
 
 <!-- Add the new image with appropriate spacing -->
 <p align="center" style="margin-top: 20px;">
